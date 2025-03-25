@@ -14,7 +14,7 @@ struct Student {
 //first try to figure the array part abd search about the temp sorting for the view part
 
 int main() {
-    const int size = 5;
+    const int size = 1000;
     Student studentDatabase[size];
     int studentCount = 0;
     int choice;
